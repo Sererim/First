@@ -1,10 +1,8 @@
-import java.util.Random;
-import java.util.Scanner;
-
 /*
  * One dimensional array 
  * find min and max 
  */
+
 import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
